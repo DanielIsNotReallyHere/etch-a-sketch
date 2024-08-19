@@ -1,0 +1,1 @@
+this is my attempt at doing TOP's assignment of etch-a-sketch. With this project i hope to learn more about how js works and how it can be used to increase interactivity with the page. blah blah blah
